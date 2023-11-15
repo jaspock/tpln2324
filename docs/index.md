@@ -26,7 +26,7 @@ You can obtain a local copy of these pages (e.g., for offline access) by executi
 
     wget --mirror --no-parent --convert-links --page-requisites https://jaspock.github.io/tpln2324
 
-Please note that the content will change throughout the course.
+Please note that the content may change throughout the course.
 
 The course has three blocks:
 
