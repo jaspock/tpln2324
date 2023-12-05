@@ -2,9 +2,10 @@
 
 ## Homework Assignments
 
-* Assignments before class of Dec 13, 2023: read the contents of section x; after that, complete this test (deadline: 23:59 CET, Dec 22 2023).
+* Assignments before class of Dec 13, 2023: read the contents of section [Introduction to computational linguistics and natural language processing](cl.md); after that, complete [this test] (deadline: 23:59 CET, Dec 12 2023).
 
-<!-- comment -->
+<!-- Assignments before class of Dec 23, 2023: read the contents of section x; after that, complete this test (deadline: 23:59 CET, Dec 22 2023).
+ -->
 
 ## Course Syllabus and Rules
 
