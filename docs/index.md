@@ -6,7 +6,7 @@
 
 ## Course Syllabus and Rules
 
-These are the teaching materials for the course Técnicas de Procesamiento del Lenguaje Natural, coordinated by professor [Juan Antonio Pérez Ortiz][japerez_url] ([@japer3z][japerez_twitter]) at the University of Alacant and also taught by professor [Francisco de Borja Navarro Colorado][borja url].
+These are the teaching materials for the course Técnicas de Procesamiento del Lenguaje Natural, coordinated by professor [Juan Antonio Pérez Ortiz][japerez_url] ([@japer3z][japerez_twitter]) at the University of Alacant and also taught by professor [Francisco de Borja Navarro Colorado][borja url] ([@bncolorado](https://github.com/bncolorado)).
 
 For information regarding the course assessment, please refer to the [course official info page][syllabus]. Some additional aspects not covered in the syllabus include:
 
