@@ -10,4 +10,4 @@ It covers the next topics:
 - Symbolic models for semantic analysis
 
 ## Test 1
-Find [here](https://forms.gle/uesECmsw9Pez8DBA7) the first test. It must be answered *before* the first face-to-face session (13/12/2023)
+Find [here](https://forms.gle/uesECmsw9Pez8DBA7) the first test. It must be answered *before* the first face-to-face class (deadline: 23:59 CET, Dec 12 2023)
