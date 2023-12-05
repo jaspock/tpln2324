@@ -4,7 +4,7 @@
 
 * Assignments before class of Dec 13, 2023: read the contents of section x; after that, complete this test (deadline: 23:59 CET, Dec 22 2023).
 
-<--! comment -->
+<!-- comment -->
 
 ## Course Syllabus and Rules
 
