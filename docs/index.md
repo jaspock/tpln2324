@@ -4,7 +4,7 @@
 
 * Assignments before class of Dec 13, 2023: read the contents of section [Introduction to computational linguistics and natural language processing](cl.md); after that, complete [this test](https://forms.gle/uesECmsw9Pez8DBA7) (deadline: 23:59 CET, Dec 12 2023).
 
-<!-- Assignments before class of Dec 20, 2023: this class will have two parts taught by different teachers; therefore, your assignments will deal with two different topics; firstly, read the contents of section x; after that, complete this test (deadline: 23:59 CET, Dec 19 2023); secondly, read the materials related to logistic regressors and PyTorch linked in this ![section](text.md#contenidos-a-preparar-antes-de-la-sesion-del-20/12/2023) and then complete [this test](https://forms.gle/V3U9MTHo7c9DNhkc6) (same deadline: 23:59 CET, Dec 19 2023) -->
+<!-- Assignments before class of Dec 20, 2023: this class will have two parts taught by different teachers; therefore, your assignments will deal with two different topics; firstly, read the contents of section x; after that, complete this test (deadline: 23:59 CET, Dec 19 2023); secondly, read the materials related to logistic regressors and PyTorch linked in this [section](text.md#contenidos-a-preparar-antes-de-la-sesion-del-20122023) and then complete [this test](https://forms.gle/V3U9MTHo7c9DNhkc6) (same deadline: 23:59 CET, Dec 19 2023) -->
 
 ## Course Syllabus and Rules
 
