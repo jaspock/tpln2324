@@ -9,7 +9,7 @@ It covers the next topics:
 - Symbolic models for syntactic parsing
 - Symbolic models for semantic analysis
 
-Chapters 6 and 7 are [here](TecnicasPLN-1_v03_caps6-7.pdf). This PDF covers two new topics:
+<font color="red">**NEW CONTENT**</font> Chapters 6 and 7 are [here](TecnicasPLN-1_v03_caps6-7.pdf). This PDF covers two new topics:
 
 - vector space models of semantics and
 - some open issues in NLP.
