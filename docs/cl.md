@@ -14,7 +14,9 @@ It covers the next topics:
 - vector space models of semantics and
 - some open issues in NLP.
 
-After reading them, you must answer Test 2 (below)
+After reading them (1 hour aprox.), you must:
+- answer Test 2 (below), and
+- read the article "The Future of Computational Linguistics: On Beyond Alchemy" [here](https://www.frontiersin.org/articles/10.3389/frai.2021.625341/full) (Reading time: one hour and a half).
 
 ## Test 1
 Find [here](https://forms.gle/uesECmsw9Pez8DBA7) the first test. It must be answered *before* the first face-to-face class (deadline: 23:59 CET, Dec 12 2023)
