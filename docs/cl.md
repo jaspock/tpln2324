@@ -9,7 +9,12 @@ It covers the next topics:
 - Symbolic models for syntactic parsing
 - Symbolic models for semantic analysis
 
-Two new topics [here]: 1. vector space models of semantics and 2. some open issues in NLP. After reading it, you must answer Test 2 (below)
+Chapters 6 and 7 are [here](TecnicasPLN-1_v03_caps6-7.pdf). This PDF covers two new topics:
+
+- vector space models of semantics and
+- some open issues in NLP.
+
+After reading them, you must answer Test 2 (below)
 
 ## Test 1
 Find [here](https://forms.gle/uesECmsw9Pez8DBA7) the first test. It must be answered *before* the first face-to-face class (deadline: 23:59 CET, Dec 12 2023)
