@@ -15,6 +15,7 @@ It covers the next topics:
 - some open issues in NLP.
 
 After reading them (1 hour aprox.), you must:
+
 - answer Test 2 (below), and
 - read the article "The Future of Computational Linguistics: On Beyond Alchemy" [here](https://www.frontiersin.org/articles/10.3389/frai.2021.625341/full) (Reading time: one hour and a half).
 
