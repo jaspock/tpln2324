@@ -1,6 +1,6 @@
 # Introduction to computational linguistics and natural language processing
 
-The content of this section is [here](TecnicasPLN-1_v02.pdf): a PDF with the introduction to NLP (in Spanish).
+The content of this section is [here](TecnicasPLN-1_v03.pdf): a PDF with the introduction to NLP (in Spanish).
 
 It covers the next topics:
 
