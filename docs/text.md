@@ -16,7 +16,25 @@ Las actividades a realizar antes de esta clase son:
 
 ### Contenidos para la sesión presencial del 20/12/2023
 
-En la clase presencial (2,5 horas 🕒️ de duración), veremos cómo se implementa un regresor logístico en PyTorch siguiendo la implementación de un regresor logístico binario y de uno multinomial que se comentan en [este apartado](https://dlsi.ua.es/~japerez/materials/transformers/implementacion/#codigo-para-un-regresor-logistico-y-uno-multinomial).
+En la clase presencial (2,5 horas 🕒️ de duración), veremos cómo se implementa un regresor logístico en PyTorch siguiendo las implementaciones de un regresor logístico binario <a href="https://colab.research.google.com/github/jaspock/me/blob/main/docs/materials/transformers/assets/notebooks/logistic.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab\"></a> y de uno multinomial <a href="https://colab.research.google.com/github/jaspock/me/blob/main/docs/materials/transformers/assets/notebooks/softmax.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab\"></a> que se comentan en [este apartado](https://dlsi.ua.es/~japerez/materials/transformers/implementacion/#codigo-para-un-regresor-logistico-y-uno-multinomial).
 
-La idea es que vayas creando una serie de notebooks en Google Colab en los que comentes cada uno de los programas que vamos a ir viendo. En la última clase se presentará una práctica más avanzada que implicará modificar el código del transformer.
+La idea es que vayas estudiando y modificando ligeramente los notebooks que vayamos estudiando. En la última clase se presentará una práctica más avanzada que implicará modificar el código del transformer.
+
+### Contenidos a preparar antes de la sesión del 10/01/2024
+
+Las actividades a realizar antes de esta clase son:
+
+- Lectura y estudio de los contenidos de [esta página](https://dlsi.ua.es/~japerez/materials/transformers/embeddings/) sobre los embeddings. Como verás, la página te indica qué contenidos has de leer del libro. Tras una primera lectura, lee las anotaciones del profesor, cuyo propósito es ayudarte a entender los conceptos clave del capítulo. Después, realiza una segunda lectura del capítulo del libro. En total, esta parte debería llevarte unas 4 horas 🕒️ de trabajo.
+- Lectura y estudio de los contenidos de [esta página](https://dlsi.ua.es/~japerez/materials/transformers/ffw/) sobre las redes neuronales hacia delante y su uso como modelos de lengua muy básicos. Realiza al menos dos lecturas complementadas con las notas del profesor como en el punto anterior. En total, esta parte debería llevarte unas 2 horas 🕒️ de trabajo.
+- Lectura y estudio de los contenidos de [esta página](https://dlsi.ua.es/~japerez/materials/transformers/attention/) de introducción a los transformers. Realiza, como siempre, al menos dos lecturas complementadas con las notas del profesor. En total, esta parte debería llevarte unas 4 horas 🕒️ de trabajo.
+- Tras acabar con las partes anteriores, realiza este [test de evaluación](https://forms.gle/7KDwRtXcrpxsKjHp7) de estos contenidos. Son pocas preguntas y te llevará unos minutos.
+- Aprovecha, si te queda tiempo, para repasar los contenidos de la primera sesión.
+
+### Contenidos para la sesión presencial del 10/01/2024
+
+En la clase presencial (5 horas 🕒️ de duración), veremos cómo se implementa en PyTorch el algoritmo de skip-grams, una red neuronal hacia delante y un transformer siguiendo las implementaciones que se comentan en estos apartados: [skip-grams](https://dlsi.ua.es/~japerez/materials/transformers/implementacion/#codigo-para-skip-grams), [redes hacia delante](https://dlsi.ua.es/~japerez/materials/transformers/implementacion/#codigo-para-un-modelo-de-lengua-con-redes-feedforward) y [transformers](https://dlsi.ua.es/~japerez/materials/transformers/implementacion/#codigo-para-un-transformer-del-proyecto-mingpt).
+
+La idea es que vayas estudiando y modificando ligeramente los notebooks que vayamos estudiando. En la última clase se presentará una práctica más avanzada que implicará modificar el código del transformer.
+
+
 
