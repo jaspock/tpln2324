@@ -20,6 +20,8 @@ En la clase presencial (2,5 horas 🕒️ de duración), veremos cómo se implem
 
 La idea es que vayas estudiando y modificando ligeramente los notebooks que vayamos estudiando. En la última clase se presentará una práctica más avanzada que implicará modificar el código del transformer.
 
+## Segunda sesión (10 de enero de 2024)
+
 ### Contenidos a preparar antes de la sesión del 10/01/2024
 
 Las actividades a realizar antes de esta clase son:
@@ -32,9 +34,31 @@ Las actividades a realizar antes de esta clase son:
 
 ### Contenidos para la sesión presencial del 10/01/2024
 
-En la clase presencial (5 horas 🕒️ de duración), veremos cómo se implementa en PyTorch el algoritmo de skip-grams, una red neuronal hacia delante y un transformer siguiendo las implementaciones que se comentan en estos apartados: [skip-grams](https://dlsi.ua.es/~japerez/materials/transformers/implementacion/#codigo-para-skip-grams), [redes hacia delante](https://dlsi.ua.es/~japerez/materials/transformers/implementacion/#codigo-para-un-modelo-de-lengua-con-redes-feedforward) y [transformers](https://dlsi.ua.es/~japerez/materials/transformers/implementacion/#codigo-para-un-transformer-del-proyecto-mingpt).
+En la clase presencial (5 horas 🕒️ de duración), veremos cómo se implementa en PyTorch el algoritmo de skip-grams, una red neuronal hacia delante y un transformer siguiendo las implementaciones que se comentan en estos apartados: [skip-grams](https://dlsi.ua.es/~japerez/materials/transformers/implementacion/#codigo-para-skip-grams) [no disponible aún], [redes hacia delante](https://dlsi.ua.es/~japerez/materials/transformers/implementacion/#codigo-para-un-modelo-de-lengua-con-redes-feedforward) [no disponible aún] y [transformers](https://dlsi.ua.es/~japerez/materials/transformers/implementacion/#codigo-para-un-transformer-del-proyecto-mingpt) [no disponible aún].
 
 La idea es que vayas estudiando y modificando ligeramente los notebooks que vayamos estudiando. En la última clase se presentará una práctica más avanzada que implicará modificar el código del transformer.
 
+## Tercera sesión (17 de enero de 2024)
 
+### Contenidos a preparar antes de la sesión del 17/01/2024
 
+Las actividades a realizar antes de esta clase son:
+
+- Lectura y estudio de los contenidos de [esta página](https://dlsi.ua.es/~japerez/materials/transformers/attention2/) sobre, por un lado, el modelo transformer completo (con codificador y descodificador) y, por otro, los posibles usos de una arquitectura que solo incluye el codificador. Como verás, la página te indica qué contenidos has de leer del libro. En particular, tendrás que leer algunas secciones del capítulo sobre traducción automática y otras del capítulo sobre modelos preentrenados, además de alguna sección suelta sobre *beam search* y tokenización en subpalabras. Tras una primera lectura, lee las anotaciones del profesor, cuyo propósito es ayudarte a entender los conceptos clave de cada apartado. Después, realiza una segunda lectura de los contenidos del libro. En total, esta parte debería llevarte unas 4 horas 🕒️ de trabajo.
+- Visonado y estudio de la clase de Jesse Mu titulada "[Prompting, Reinforcement Learning from Human Feedback](https://youtu.be/SXpJ9EmG3s4?si=j4B1U2Z-JCyYJwlc)" del curso CS224N de Stanford de 2023 sobre modelos de lengua basados en el descodificador del transformer. En total, esta parte debería llevarte unas 2 horas 🕒️ de trabajo, porque tendrás que tomar notas del vídeo para no tener que verlo cada vez que quieras repasar algo; para tomar notas, te puede venir bien descargar las [diapositivas](https://web.stanford.edu/class/cs224n/slides/cs224n-2023-lecture11-prompting-rlhf.pdf) y escribir sobre ellas. Puedes quedarte solo con las ideas básicas de lo que se comenta entre los minutos 39 y 46, porque las ecuaciones del aprendizaje por refuerzo son un tema no prioritario para esta asignatura que verás en otras asignaturas. Es importante que antes de ver el vídeo repases lo que ya estudiaste sobre los [transformers](https://dlsi.ua.es/~japerez/materials/transformers/attention/) como modelo de lengua basado en el descodificador. Que no te confunda que a los modelos basados en codificador también se les conozca a veces con el nombre de modelos de lengua. En este vídeo se habla de las propiedades de modelos basados en descodificador que han sido entrenados para predecir el siguiente token de una secuencia.
+- Aprovecha, si te queda tiempo, para repasar todos los contenidos de las sesiones anteriores.
+- Es previsible que se añada aquí posteriormente algún contenido adicional sobre modelos multilingües, pero por ahora puedes empezar con lo anterior. Vuelve a pasar por aquí el 11 de enero, para ver si se ha añadido algo más. En cualquier caso, para esa fecha se habrá añadido el test de evaluación correspondiente. Para esta parte deberás dedicar 1 hora 🕒️ de trabajo aproximadamente.
+
+### Contenidos para la sesión presencial del 17/01/2024
+
+En la clase presencial (5 horas 🕒️ de duración), veremos cómo se implementa sobre nuestro código de la arquitectura transformer tanto un modelo de lengua basado en descodificador como un modelo de reconocimiento de entidades nombradas basado en codificador. Para ello seguiremos las implementaciones que se comentan en estos apartados: [modelo de lengua](https://dlsi.ua.es/~japerez/materials/transformers/implementacion/#codigo-para-un-modelo-de-lengua-con-transformers) [no disponible aún] y [modelo de reconocimiento de entidades nombradas](https://dlsi.ua.es/~japerez/materials/transformers/implementacion/#codigo-para-un-modelo-de-reconocimiento-de-entidades-nombradas-con-transformers) [no disponible aún]. Aprovecharemos para repasar algunos aspectos del código de sesiones anteriores y relacionar los aspectos teóricos con los prácticos. Presentaremos también la práctica que tienes que entregar para este bloque de la asignatura.
+
+## Cuarta sesión (19 de enero de 2024)
+
+### Contenidos a preparar antes de la sesión del 19/01/2024
+
+Pendiente.
+
+### Contenidos para la sesión presencial del 19/01/2024
+
+Pendiente.
