@@ -18,7 +18,7 @@ Las actividades a realizar antes de esta clase son:
 
 En la clase presencial (2,5 horas 🕒️ de duración), veremos cómo se implementa un regresor logístico en PyTorch siguiendo las implementaciones de un regresor logístico binario <a href="https://colab.research.google.com/github/jaspock/me/blob/main/docs/materials/transformers/assets/notebooks/logistic.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab\"></a> y de uno multinomial <a href="https://colab.research.google.com/github/jaspock/me/blob/main/docs/materials/transformers/assets/notebooks/softmax.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab\"></a> que se comentan en [este apartado](https://dlsi.ua.es/~japerez/materials/transformers/implementacion/#codigo-para-un-regresor-logistico-y-uno-multinomial).
 
-La idea es que vayas estudiando y modificando ligeramente los notebooks que vayamos estudiando. En la última clase se presentará una práctica más avanzada que implicará modificar el código del transformer.
+La idea es que vayas estudiando y modificando ligeramente los notebooks que vayamos estudiando. En una clase posterior se presentará una práctica más avanzada que implicará modificar el código del transformer.
 
 ## Segunda sesión (10 de enero de 2024)
 
@@ -34,9 +34,12 @@ Las actividades a realizar antes de esta clase son:
 
 ### Contenidos para la sesión presencial del 10/01/2024
 
-En la clase presencial (5 horas 🕒️ de duración), veremos cómo se implementa en PyTorch el algoritmo de skip-grams, una red neuronal hacia delante y un transformer siguiendo las implementaciones que se comentan en estos apartados: [skip-grams](https://dlsi.ua.es/~japerez/materials/transformers/implementacion/#codigo-para-skip-grams) [no disponible aún], [redes hacia delante](https://dlsi.ua.es/~japerez/materials/transformers/implementacion/#codigo-para-un-modelo-de-lengua-con-redes-feedforward) [no disponible aún] y [transformers](https://dlsi.ua.es/~japerez/materials/transformers/implementacion/#codigo-para-un-transformer-del-proyecto-mingpt) [no disponible aún].
+En la clase presencial (5 horas 🕒️ de duración), veremos cómo se implementa en PyTorch el algoritmo de skip-grams <a target="_blank" href="https://colab.research.google.com/github/jaspock/me/blob/main/docs/materials/transformers/assets/notebooks/skipgram.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>, un modelo de lengua basado en red neuronal hacia delante <a target="_blank" href="https://colab.research.google.com/github/jaspock/me/blob/main/docs/materials/transformers/assets/notebooks/ffnn.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> y un transformer <a target="_blank" href="https://colab.research.google.com/github/jaspock/me/blob/main/docs/materials/transformers/assets/notebooks/transformer.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> siguiendo las implementaciones que se comentan en [este apartado](https://www.dlsi.ua.es/~japerez/materials/transformers/implementacion/#codigo-para-skip-grams) y los dos siguientes.
 
-La idea es que vayas estudiando y modificando ligeramente los notebooks que vayamos estudiando. En la última clase se presentará una práctica más avanzada que implicará modificar el código del transformer.
+La idea es que vayas estudiando y modificando ligeramente los notebooks que vayamos estudiando. En una clase posterior se presentará una práctica más avanzada que implicará modificar el código del transformer.
 
 ## Tercera sesión (17 de enero de 2024)
 
