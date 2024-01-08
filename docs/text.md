@@ -58,10 +58,4 @@ En la clase presencial (5 horas 🕒️ de duración), veremos cómo se implemen
 
 ## Cuarta sesión (19 de enero de 2024)
 
-### Contenidos a preparar antes de la sesión del 19/01/2024
-
-Pendiente.
-
-### Contenidos para la sesión presencial del 19/01/2024
-
-Pendiente.
+Esta cuarta sesión es realmente la primera y única sesión del tema de voz. Mira la página sobre [voz](speech.md) para ver los contenidos previos a esta sesión.
