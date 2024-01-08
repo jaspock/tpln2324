@@ -15,4 +15,4 @@ Las actividades a realizar antes de esta clase son:
 
 ### Contenidos para la sesión presencial del 19/01/2024
 
-En la clase presencial (2,5 horas 🕒️ de duración), veremos cómo se implementa un sencillo sistema de reconocimiento de voz en PyTorch. <a href="https://colab.research.google.com/github/jaspock/me/blob/main/docs/materials/transformers/assets/notebooks/speech.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab\"></a>
+En la clase presencial (2,5 horas 🕒️ de duración), veremos cómo se implementa un sencillo sistema de reconocimiento de voz en PyTorch. <a href="https://colab.research.google.com/github/jaspock/me/blob/main/docs/materials/transformers/assets/notebooks/speeeeech.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab\"></a>
