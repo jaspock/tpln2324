@@ -4,7 +4,7 @@ En este bloque se aborda el estudio de algunos modelos neuronales utilizados par
 
 Los materiales de clase complementan la lectura de algunos capítulos de un libro de texto ("Speech and Language Processing" de Dan Jurafsky y James H. Martin, borrador de la tercera edición, disponible online) con anotaciones realizadas por el profesor.
 
-## Primera sesión (20 de diciembre de 2023)
+## Primera sesión de este bloque (20 de diciembre de 2023)
 
 ### Contenidos a preparar antes de la sesión del 20/12/2023
 
@@ -49,8 +49,9 @@ Las actividades a realizar antes de esta clase son:
 
 - Lectura y estudio de los contenidos de [esta página](https://dlsi.ua.es/~japerez/materials/transformers/attention2/) sobre, por un lado, el modelo transformer completo (con codificador y descodificador) y, por otro, los posibles usos de una arquitectura que solo incluye el codificador. Como verás, la página te indica qué contenidos has de leer del libro. En particular, tendrás que leer algunas secciones del capítulo sobre traducción automática y otras del capítulo sobre modelos preentrenados, además de alguna sección suelta sobre *beam search* y tokenización en subpalabras. Tras una primera lectura, lee las anotaciones del profesor, cuyo propósito es ayudarte a entender los conceptos clave de cada apartado. Después, realiza una segunda lectura de los contenidos del libro. En total, esta parte debería llevarte unas 4 horas 🕒️ de trabajo.
 - Visonado y estudio de la clase de Jesse Mu titulada "[Prompting, Reinforcement Learning from Human Feedback](https://youtu.be/SXpJ9EmG3s4?si=j4B1U2Z-JCyYJwlc)" del curso CS224N de Stanford de 2023 sobre modelos de lengua basados en el descodificador del transformer. En total, esta parte debería llevarte unas 2 horas 🕒️ de trabajo, porque tendrás que tomar notas del vídeo para no tener que verlo cada vez que quieras repasar algo; para tomar notas, te puede venir bien descargar las [diapositivas](https://web.stanford.edu/class/cs224n/slides/cs224n-2023-lecture11-prompting-rlhf.pdf) y escribir sobre ellas. Puedes quedarte solo con las ideas básicas de lo que se comenta entre los minutos 39 y 46, porque las ecuaciones del aprendizaje por refuerzo son un tema no prioritario para esta asignatura que verás en otras asignaturas. Es importante que antes de ver el vídeo repases lo que ya estudiaste sobre los [transformers](https://dlsi.ua.es/~japerez/materials/transformers/attention/) como modelo de lengua basado en el descodificador. Que no te confunda que a los modelos basados en codificador también se les conozca a veces con el nombre de modelos de lengua. En este vídeo se habla de las propiedades de modelos basados en descodificador que han sido entrenados para predecir el siguiente token de una secuencia.
+- Estudia la descripción sobre [modelos multilingües](https://dlsi.ua.es/~japerez/materials/transformers/attention2/#multilingual-models) que se hace en este apartado de una de las páginas sobre transformers. Es un apartado breve que te llevará unos 🕒️ 15 minutos.
+- Tras acabar con las partes anteriores, realiza este [test de evaluación](https://forms.gle/GRK5SLc3STkup8at9) de estos contenidos. Son pocas preguntas y te llevará unos minutos.
 - Aprovecha, si te queda tiempo, para repasar todos los contenidos de las sesiones anteriores.
-- Es previsible que se añada aquí posteriormente algún contenido adicional sobre modelos multilingües, pero por ahora puedes empezar con lo anterior. Vuelve a pasar por aquí el 11 de enero, para ver si se ha añadido algo más. En cualquier caso, para esa fecha se habrá añadido el test de evaluación correspondiente. Para esta parte deberás dedicar 1 hora 🕒️ de trabajo aproximadamente.
 
 ### Contenidos para la sesión presencial del 17/01/2024
 
