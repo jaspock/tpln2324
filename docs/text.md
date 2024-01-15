@@ -55,7 +55,9 @@ Las actividades a realizar antes de esta clase son:
 
 ### Contenidos para la sesión presencial del 17/01/2024
 
-En la clase presencial (5 horas 🕒️ de duración), veremos cómo se implementa sobre nuestro código de la arquitectura transformer tanto un modelo de lengua basado en descodificador como un modelo de reconocimiento de entidades nombradas basado en codificador. Para ello seguiremos las implementaciones que se comentan en estos apartados: [modelo de lengua](https://dlsi.ua.es/~japerez/materials/transformers/implementacion/#codigo-para-un-modelo-de-lengua-con-transformers) [no disponible aún] y [modelo de reconocimiento de entidades nombradas](https://dlsi.ua.es/~japerez/materials/transformers/implementacion/#codigo-para-un-modelo-de-reconocimiento-de-entidades-nombradas-con-transformers) [no disponible aún]. Aprovecharemos para repasar algunos aspectos del código de sesiones anteriores y relacionar los aspectos teóricos con los prácticos. Presentaremos también la práctica que tienes que entregar para este bloque de la asignatura.
+En la clase presencial (5 horas 🕒️ de duración), veremos cómo se implementa sobre nuestro código de la arquitectura transformer tanto un modelo de lengua basado en descodificador <a target="_blank" href="https://colab.research.google.com/github/jaspock/me/blob/main/docs/materials/transformers/assets/notebooks/lmgpt.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> como un modelo de reconocimiento de entidades nombradas <a target="_blank" href="https://colab.research.google.com/github/jaspock/me/blob/main/docs/materials/transformers/assets/notebooks/nerbert.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> basado en codificador. 
+  
+Aprovecharemos para repasar algunos aspectos del código de sesiones anteriores y relacionar los aspectos teóricos con los prácticos. Presentaremos también la práctica que tienes que entregar para este bloque de la asignatura.
 
 ## Cuarta sesión (19 de enero de 2024)
 
